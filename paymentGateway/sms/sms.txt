@@ -1,0 +1,32 @@
+Address	: VM-PAYTMB
+Message	: You have received Rs.10.00 in your a/c 91XX0811 from PASFAR TECHNOLOGIESP on 29-3-2019.IMPS Ref no: 908817507196.For queries,call 01204456456.
+Address	: VK-PAYTMB
+Message	: You have received Rs.4.00 in your a/c 91XX0811 from PASFAR TECHNOLOGIESP on 17-3-2019.IMPS Ref no: 907619386279.For queries,call 01204456456.
+Address	: VM-PAYTMB
+Message	: You have received Rs.384.62 in your a/c 91XX0811 from SARATH S JYOTHIS via Paytm Wallet mobile XXXXXX0811 on 29-1-2019. Ref no: 902904916642.
+Address	: VK-PAYTMB
+Message	: You have received Rs.307.82 in your a/c 91XX0811 from SARATH S JYOTHIS via Paytm Wallet mobile XXXXXX0811 on 20-1-2019. Ref no: 902015356413.
+Address	: AD-PAYTMB
+Message	: You have received Rs.287.00 in your a/c 91XX0811 from PAYTM IMPS POOL ACCO on 20-1-2019.IMPS Ref no: 902015358467.For queries,call 01204456456.
+Address	: VK-PAYTMB
+Message	: You have received Rs.100.00 in your a/c 91XX0811 from ONE 97 COMMUNICATION on 12-11-2018. IMPS Ref no: 831617290062.
+Address	: VM-PAYTMB
+Message	: Dear Customer, you have received Rs.130.95 in your account XXXXXXXX0811 from SARATH S JYOTHIS via Paytm wallet mobile XXXXXX0811. Ref no: 830118955303. Queries? Write to us at http://m.p-y.tm/care
+Address	: VM-PAYTMB
+Message	: Dear Customer, you have received Rs.175.01 via IMPS in your account XXXXXXXX0811 from ONE 97 COMMUNICATION (XXXXXX0811). Ref no: 830118631576. Queries? Write to us at http://m.p-y.tm/care
+Address	: VM-PAYTMB
+Message	: Dear Customer, you have received Rs.1.00 via IMPS in your account XXXXXXXX0811 from ONE 97 COMMUNICATION (XXXXXX0811). Ref no: 830118629514. Queries? Write to us at http://m.p-y.tm/care
+Address	: VK-PAYTMB
+Message	: Dear Customer, you have received Rs.1.18 in your bank account XXXXXXXX0811 from PAYPAL PAYMENTS PL INR FBO CUR AC (XXXXXX8024). Ref no: CITIN18893572368. Queries? Write to us at http://m.p-y.tm/care
+Address	: VM-PAYTMB
+Message	: Dear Customer, you have received Rs.1.04 in your bank account XXXXXXXX0811 from PAYPAL PAYMENTS PL INR FBO CUR AC (XXXXXX8024). Ref no: CITIN18893572669. Queries? Write to us at http://m.p-y.tm/care
+Address	: VK-IPAYTM
+Message	: Received Rs.20 from udipta (97XXXX4116) in your Paytm Wallet. Wallet txn id: 18903072704. Get up to Rs 100 Cashback on Top Food Brands http://m.p-y.tm/f_1 .
+Address	: VK-PAYTMB
+Message	: Dear Customer, you have received Rs.100.00 in your account XXXXXXXX0811 from SARATH S JYOTHIS Jyothis via Paytm wallet mobile XXXXXX0811. Ref no: 813418875013. Queries? Write to us at http://m.p-y.tm/care
+Address	: AX-IPAYTM
+Message	: Received Rs.130 from Nithin Singh (88XXXX6884) in your Paytm Wallet. Wallet txn id: 18881646483. Get Rs 150 cashback at Grocery Stores http://m.p-y.tm/bw93 .
+Address	: AM-IPAYTM
+Message	: Received Rs.125 from Rajdeep (70XXXX9040) in your Paytm Wallet. Wallet txn id: 17922813003. Upto Rs 200 Cashback on Movie Tickets http://m.p-y.tm/sblk .
+Address	: AM-IPAYTM
+Message	: Received Rs.253 from Paytm User (99XXXX4566) in your Paytm Wallet. Wallet txn id: 17862843225. Get Rs 70 Cashback at nearby stores http://m.p-y.tm/GC1 .
